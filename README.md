@@ -4,11 +4,19 @@
 
 ## 说明
 
-这里为[脆骨症](https://github.com/Go-Camping/No-Flesh-Within-Chest)的Beta 0.3.2版本添加或更新一些模组，主要包括：
+我根据个人喜好给[脆骨症整合包](https://github.com/Go-Camping/No-Flesh-Within-Chest)的Beta 0.3.2版本加了一些模组，主要包括：
+
+更新模组：
 
 | 模组 | 说明 |
 | :---: | :---: |
-| **机械动力（Create）** | 更新（0.5.1.f -> 0.5.1.i）|
+| **机械动力（Create）** | 0.5.1.f -> 0.5.1.i |
+| Curios API | 5.1.6.2 -> 5.1.6.4 |
+
+添加模组：
+
+| 模组 | 说明 |
+| :---: | :---: |
 | 机械动力的多种附加模组 | 丰富玩法 |
 | **通用机械（Mekanism）** 及其附加模组 | 影响矿物的模组在开服前就应决定好；另外也是为了镐尖斧、矿物增产、物品充电以及凑名字 |
 | 村民物品化/简单村民（Easy Villagers） | 第一生产力！ |
@@ -27,12 +35,12 @@
 
 ## 使用方式
 
-* 在脆骨症的mods文件夹删去旧版 `create-1.19.2-0.5.1.i.jar`；
+* 在脆骨症的mods文件夹删去旧版 `create-1.19.2-0.5.1.i.jar` 和 `curios-forge-1.19.2-5.1.6.2.jar`；
 * 从Releases获取zip文件，解压到mods文件夹即可。
 
 ## 模组列表
 
-上面仅列出了几个主要改动。下面详细列出所有添加的模组：
+上面仅列出了几个主要改动。下面详细列出所有更新或添加的模组：
 
 ```plaintext
 anvilrestoration-1.19.2-2.2.jar
@@ -66,14 +74,12 @@ FallingTree-1.19.2-3.10.1.jar
 FastLeafDecay-30.jar
 ftb-ultimine-forge-1902.4.2-build.14.jar
 immersive_aircraft-0.7.10+1.19.2-forge.jar
-ironchest-1.19.2-14.2.7.jar
 Mekanism-1.19.2-10.3.9.13.jar
 Mekanism-Evolution-1.19.2-1.3.4.jar
 MekanismAdditions-1.19.2-10.3.9.13.jar
 MekanismGenerators-1.19.2-10.3.9.13.jar
 MekanismTools-1.19.2-10.3.9.13.jar
 mysterious_mountain_lib-1.2.3-1.19.2.jar
-OreExcavation-1.11.166.jar
 Paraglider-1.19.2-1.7.0.5.jar
 simpleplanes-1.19.2-5.2.3.jar
 SimplyJetpacks2-1.19.2-2.9.1.1.jar
