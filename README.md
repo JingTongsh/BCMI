@@ -39,7 +39,7 @@
 ## 使用方式
 
 * 在脆骨症的mods文件夹删去旧版 `create-1.19.2-0.5.1.i.jar` 和 `curios-forge-1.19.2-5.1.6.2.jar`；
-* 从Releases获取zip文件，解压到mods文件夹即可。
+* 从Releases获取zip文件，将其中所有jar文件放到mods文件夹即可。
 
 ## 模组列表
 
