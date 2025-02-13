@@ -31,7 +31,9 @@
 | [XMM]Xaero的小地图（Xaero's Minimap） | 方便 |
 | [XWM]Xaero的世界地图Xaero's World Map） | 还是方便 |
 
-本来还想加个[XP]Xaero的地图增强（XaeroPlus），跟传送石碑/指路石（Waystones）有更好的联动。虽然1.20.1-forge 47.3.0版本实测没问题，但是在脆骨症（1.19.2-forge 43.3.8）实测有bug，所以就不加了。
+本来还想加个[XP]Xaero的地图增强（XaeroPlus），跟传送石碑/指路石（Waystones）有更好的联动。
+虽然1.20.1-forge 47.3.0版本实测没问题，但是在脆骨症（1.19.2-forge 43.3.8）实测有bug，所以就不加了。
+但似乎可以仅在客户端安装XaeroPlus。
 
 ## 使用方式
 
