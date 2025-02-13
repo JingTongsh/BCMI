@@ -49,7 +49,6 @@ cloth-config-8.3.134-forge.jar
 collective-1.19.2-7.64.jar
 corn_delight-1.0.3-1.19.2.jar
 create-1.19.2-0.5.1.i.jar
-Create-DnDesire-1.19.2-1.2c.Beta Mid-Dev.jar
 create-new-age-forge-1.19.2-1.1.2.jar
 create-stuff-additions1.19.2_v2.0.5.jar
 create_central_kitchen-1.19.2-for-create-0.5.1.f-1.3.11.c.jar
