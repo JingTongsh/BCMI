@@ -21,25 +21,23 @@
 | 机械动力的多种附加模组 | 丰富玩法 |
 | **通用机械（Mekanism）** 及其附加模组 | 影响矿物的模组在开服前就应决定好；另外也是为了镐尖斧、矿物增产、物品充电以及凑名字 |
 | 村民物品化/简单村民（Easy Villagers） | 第一生产力！ |
+| [ES]扩展存储（Expanded Storage） | 大容量箱子 |
 | 伐树（FallingTree） | 更快砍树 |
 | 树叶快速腐烂（Fast Leaf Decay） | 树叶迅速掉落 |
 | 连锁破坏（FTB Ultimate） | 更快挖矿 |
-| 更多箱子（Iron Chests） | 大容量存储 |
 | 沉浸式飞机（Immersive Aircraft） | 起飞！ |
 | 简单飞机（Simple Planes） | 还是起飞！ |
 | [TaCZ]永恒枪械工坊：零（Timeless and Classics Zero） | 个人喜好 |
 | [TLM]车万女仆（Touhou Little Maid） | 喜欢我女仆带枪吗？ |
+| [XP]Xaero的地图增强（XaeroPlus） | 与指路石（Waystones）更好联动，**仅客户端安装** |
 | [XMM]Xaero的小地图（Xaero's Minimap） | 方便 |
 | [XWM]Xaero的世界地图Xaero's World Map） | 还是方便 |
-
-本来还想加个[XP]Xaero的地图增强（XaeroPlus），跟传送石碑/指路石（Waystones）有更好的联动。
-虽然1.20.1-forge 47.3.0版本实测没问题，但是在脆骨症（1.19.2-forge 43.3.8）实测有bug，所以就不加了。
-但似乎可以仅在客户端安装XaeroPlus。
 
 ## 使用方式
 
 * 在脆骨症的mods文件夹删去旧版 `create-1.19.2-0.5.1.i.jar` 和 `curios-forge-1.19.2-5.1.6.2.jar`；
-* 从Releases获取zip文件，将其中所有jar文件放到mods文件夹即可。
+* 从Releases获取zip文件，将其中所有jar文件放到mods文件夹；
+* 在服务器删去 `XaeroPlus-2.25+forge-1.19.2-WM1.39.2-MM24.7.1.jar`，客户端保留。
 
 ## 模组列表
 
@@ -74,6 +72,7 @@ curios-forge-1.19.2-5.1.6.4.jar
 dragondropselytra-1.19.2-3.3.jar
 easy-villagers-forge-1.19.2-1.1.23.jar
 elytraslot-forge-6.1.2+1.19.2.jar
+expandedstorage-8.3.4+1.19.2-forge.jar
 FallingTree-1.19.2-3.10.1.jar
 FastLeafDecay-30.jar
 ftb-ultimine-forge-1902.4.2-build.14.jar
@@ -93,6 +92,7 @@ tacz-1.19.2-1.1.4-hotfix-all.jar
 touhoulittlemaid-1.19.2-release-1.1.14.jar
 travelersbackpack-forge-1.19.2-8.2.41.jar
 wooltweaks-1.19.2-3.3.jar
+XaeroPlus-2.25+forge-1.19.2-WM1.39.2-MM24.7.1.jar
 Xaeros_Minimap_24.7.1_Forge_1.19.1.jar
 XaerosWorldMap_1.39.2_Forge_1.19.1.jar
 ```
